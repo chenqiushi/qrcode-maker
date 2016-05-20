@@ -10,11 +10,7 @@
 
     $ qrcode http://www.baidu.com/
 
-    // normal qrcode
-
-    $ qrcode http://www.baidu.com/ -b
-
-    // qrcode with bainuo://component
+    // console your qrcode
 
 # Support
 

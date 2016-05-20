@@ -41,6 +41,7 @@ if (input === '-v' || input === '--version') {
  */
 
 // If need bainuo schema
+// NOTICE: If you don't know what does this mean, IGNORE IT! This is a custorm function.
 if (param === '-b' || param === '--bainuo') {
     input = formatBainuo(input);
 }
@@ -64,14 +65,12 @@ function help() {
         'Usage: ' + command + ' <message>',
         '',
         'Options:',
-        '  -b, --bainuo        output Bainuo Schema Url',
         '  -h, --help           output usage information',
         '  -v, --version        output version number',
         '',
         'Examples:',
         '',
         '  $ ' + command + ' http://www.baidu.com/',
-        '  $ ' + command + ' http://www.baidu.com/ -b',
         ''
     ].join('\n'));
 }
