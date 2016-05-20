@@ -1,0 +1,26 @@
+{
+  "name": "qrcode-maker",
+  "version": "0.0.1",
+  "description": "Generate QRcode as you like ",
+  "main": "index.js",
+  "bin": {
+    "qrcode": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "qrcode",
+    "cli",
+    "qrcode-maker"
+  ],
+  "author": {
+    "name": "Qiushi Chen",
+    "email": "tracy909@126.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chenqiushi/qrcode-maker/issues"
+  },
+  "homepage": "https://github.com/chenqiushi/qrcode-maker#readme"
+}
