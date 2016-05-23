@@ -1,6 +1,6 @@
 # qrcode-maker
 
-    Quick, simple generate QRcode as you like
+    Quick, simple CLI tool. Generate QRcode as you like
 
 # Installation
 
@@ -8,9 +8,13 @@
 
 # Usage
 
-    $ qrcode http://www.baidu.com/
+    $ qrcode http://www.google.com/
 
-    // console your qrcode
+    // print qrcode in console
+
+    $ qrcode 'some content with white space'
+
+    // print qrcode in console
 
 # Support
 
