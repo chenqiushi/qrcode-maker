@@ -1,7 +1,7 @@
 {
   "name": "qrcode-maker",
   "version": "0.0.4",
-  "description": "Generate QRcode as you like ",
+  "description": "A quick, simple CLI tool for qrcode",
   "main": "index.js",
   "bin": {
     "qrcode": "index.js"

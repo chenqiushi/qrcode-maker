@@ -1,6 +1,6 @@
 # qrcode-maker
 
-    Quick, simple CLI tool. Generate QRcode as you like
+    A quick, simple CLI tool for qrcode
 
 # Installation
 
